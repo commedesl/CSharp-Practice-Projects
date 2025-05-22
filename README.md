@@ -1,4 +1,3 @@
-# CSharp-Practice-Projects
 # CSharp Practice Projects
 
 這是我在學習 C# 過程中完成的一系列基礎練習小專案，涵蓋了流程控制、條件判斷、迴圈、隨機數、字串處理等主題，目的是強化語法熟練度並打好邏輯基礎。
